@@ -1,0 +1,24 @@
+*{
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0d47a1;
+    padding: 20px 0px;
+}
+.navegacao{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    color: #f5f5f5;
+
+
+
+
+}
