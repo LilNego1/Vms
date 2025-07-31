@@ -6,6 +6,10 @@
     font-size: 1.05rem;
 
 }
+main{
+    background-color: #e5e5e5;
+}
+
 a{
     list-style: none;
     text-decoration: none;

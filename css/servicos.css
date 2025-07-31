@@ -5,10 +5,6 @@
 
 
 }
-.servicos-container{
-
-
-}
 .titulo-servicos{
     display: flex;
     justify-content: center;
@@ -24,10 +20,6 @@ justify-content: center;
 gap: 30px;
 flex-direction: row;
 padding-bottom: 50px;
-
-}
-.servicos_card{
-
 
 }
 .servico-imagem{

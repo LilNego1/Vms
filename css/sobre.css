@@ -3,6 +3,7 @@
     justify-content: center;
     flex-direction: row-reverse;
     margin: 50px 0px;
+    background-color: #e5e5e5;
 }
 .sobre-container{
     display: flex;
