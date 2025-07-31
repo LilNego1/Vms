@@ -37,19 +37,3 @@
     gap: 50px;
 }
 
-.botao-banner{
-    background-color: #fcc300;
-    color: #000000;
-    padding: 10px 30px;
-    border-radius: 8px;
-    font-size: 1.2rem;
-    border: none;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.botao-banner:hover{
-    background: #f77d2b;
-    color: #000000;
-    transform: translateY(-2px);
-}
