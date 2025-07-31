@@ -1,0 +1,11 @@
+.empresa{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    background-color: #303944;
+    max-width: 60%;
+
+
+}
