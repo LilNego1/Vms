@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110.82 110.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_15-2);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_15);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_15-3);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_15-4);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_15" data-name="Gradiente sem nome 15" x1="35.09" y1="77.97" x2="61.98" y2="77.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77d2b"/>
+      <stop offset="1" stop-color="#fcc300"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_15-2" data-name="Gradiente sem nome 15" x1="75.42" y1="40.68" x2="88.57" y2="40.68" xlink:href="#Gradiente_sem_nome_15"/>
+    <linearGradient id="Gradiente_sem_nome_15-3" data-name="Gradiente sem nome 15" x1="31.92" y1="52.69" x2="70.33" y2="52.69" xlink:href="#Gradiente_sem_nome_15"/>
+    <linearGradient id="Gradiente_sem_nome_15-4" data-name="Gradiente sem nome 15" x1="71.39" y1="40.68" x2="74.36" y2="40.68" xlink:href="#Gradiente_sem_nome_15"/>
+  </defs>
+  <circle cx="55.41" cy="55.41" r="44.43"/>
+  <g>
+    <path class="cls-2" d="M61.91,73.62c-.22,3.03,1.04,6.8-2.14,8.54l-21.75.12c-.73.37-2.93-1.88-2.93-2.07v-6.59h26.82Z"/>
+    <path class="cls-1" d="M75.42,36.82c2.46-.49,2.95,2.73,3.18,2.73h9.32c.86,0,.86,2.27,0,2.27h-9.32c-.23,0-.72,3.22-3.18,2.73v-7.73Z"/>
+    <path class="cls-3" d="M64.43,33.6c-5.12-.63-20.83-.63-25.94,0-4.15.51-7.13,4.67-6.48,8.77.83,5.19,6.01,7.35,10.81,6.7,0,.23,0,.45.01.68.08,1.69-2.67,13.03-3.42,14.78-1.34,3.08-5.52,2.57-4.32,7.28l26.83.45-.11-3.97-7.09-2.92c-.22-.36.19-3.92.75-7.57.38.06.87.04,1.49-.08,2.68-.5-.01-2.34-.22-3.42-.21-1.07.07-2.41,0-3.57.16-.65.29-1.09.39-1.2,2.15-1.14,5.17.08,7.53-.65.36-.11,5.44-3.8,5.66-4.09v-8.44c-.46-.96-4.73-2.59-5.9-2.74ZM50.38,45.42h-11.7c-.5,0-.91-.41-.91-.91s.41-.91.91-.91h11.7c.5,0,.91.41.91.91s-.41.91-.91.91ZM50.38,42.25h-11.7c-.5,0-.91-.41-.91-.91s.41-.91.91-.91h11.7c.5,0,.91.41.91.91s-.41.91-.91.91ZM50.38,39.08h-11.7c-.5,0-.91-.41-.91-.91s.41-.91.91-.91h11.7c.5,0,.91.41.91.91s-.41.91-.91.91Z"/>
+    <rect class="cls-4" x="71.39" y="36.59" width="2.97" height="8.18"/>
+  </g>
+</svg>

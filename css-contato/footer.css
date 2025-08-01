@@ -1,0 +1,43 @@
+footer{
+    background-color: #303944;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-imagem{
+    width: 300px;
+}
+.logo-footer{
+    display: flex;
+    justify-content: left;
+    gap: 40px;
+}
+.texto-footer{
+    width: 200px;
+    justify-self: center;
+    align-self: center;
+    color: white;
+}
+.rodape-container{
+    width: 60%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.titulo-rodape{
+    display: flex;
+    font-size: 2em;
+    color: #f77d2b;
+    align-self: center;
+}
+.rodape-links{
+    margin-top: 40px;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+.direitos{
+    padding-top: 50px;
+    color: white;
+}

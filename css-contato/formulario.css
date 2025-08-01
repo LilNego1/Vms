@@ -1,0 +1,22 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px;
+}
+
+.form-container{
+    width: 60%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.contate-container{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 400px;
+    justify-content: center;
+    align-items: center;
+}

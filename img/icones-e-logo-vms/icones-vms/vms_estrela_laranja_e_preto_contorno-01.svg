@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110.82 110.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: url(#Gradiente_sem_nome_15);
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_15" data-name="Gradiente sem nome 15" x1="24.21" y1="53.55" x2="87.36" y2="53.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77d2b"/>
+      <stop offset="1" stop-color="#fcc300"/>
+    </linearGradient>
+  </defs>
+  <circle cx="55.41" cy="56.17" r="44.43"/>
+  <path class="cls-1" d="M66.39,40.91c3.63,1.58,15.67,1.12,17.86,3.34,4.95,5.03-7.99,13.08-10.7,16.42-1.19,4.86,3.6,15.27,1.22,19.26-3.38,5.66-14.63-5.53-18.87-5.39-4.69.16-13.43,8.87-17.68,6.77-5.33-2.64,1.23-14.92-.18-19.67-1.51-5.05-15.03-10.3-11.11-16.92,1.64-2.76,14.81-1.86,18.27-3.83,8.19-20.55,13.08-20.56,21.2.03Z"/>
+</svg>
