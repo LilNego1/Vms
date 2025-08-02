@@ -24,3 +24,22 @@ nav{
     width: 30px;
 
 }
+
+.li-nav{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.li-nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.3s ease;
+}
+
+.li-nav a:hover {
+    color: #fcc300;
+}
