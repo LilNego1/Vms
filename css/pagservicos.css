@@ -1,0 +1,39 @@
+.carrosel-eletrica{
+    display: flex;
+    justify-content: space-between ;
+    flex-direction: row;
+    margin: 10px;
+    
+}
+.texto-eletrica{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+.eletrica-titulo{
+    color:#fcc300;
+    display: flex;
+    align-items: flex-start;   
+    padding: 20px 0px;
+
+}
+.img-eletrica{
+    height: 500px;
+    width: 700px;
+}
+.div-eletrica{
+    background-color: #0d47a1;
+    padding: 20px;
+    border-radius: 11px;
+    color: #e4e4e4;
+}
+.container-btn-eletrica{
+    display: flex;
+    justify-content:center;
+}
+.eletrica-body{
+    background-color: #e0e0e0;
+    
+}
