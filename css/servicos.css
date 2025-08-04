@@ -1,0 +1,46 @@
+.servicos{
+    background-color: #303944;
+    padding: 50px;
+
+
+
+}
+.titulo-servicos{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fcc300;
+    padding-bottom: 50px;
+
+
+}
+.servicos-cards{
+display: flex;
+justify-content: center;
+gap: 30px;
+flex-direction: row;
+padding-bottom: 50px;
+
+}
+.servico-imagem{
+    width: 300px;
+    height: 300px;
+
+}
+.texto-servicos{
+    color: #ffffff;
+    display: flex;
+    justify-self: center;
+    font-size: 1.2em;
+}
+.servicos .botao-orcamento{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+}
+.teste:hover{
+    display: block;
+    filter:opacity(20%);
+    
+
+}
