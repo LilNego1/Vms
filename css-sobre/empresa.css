@@ -1,11 +1,69 @@
-.empresa{
+.container-empresa{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding-top: 80px;
+    padding: 10px;
     background-color: #303944;
-    max-width: 60%;
+    max-width: 100%;
+    
 
+}
+.empresa{
+    background-color: #303944;
+}
+.card-empresa{
+    display: flex;
+    flex-direction: column;
+    background-color: #303944;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 60%;
+}
+.img-empresa {
+    width: 100%;
+}
+.empresa-titulo{
+    color: #fcc300;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+
+}
+.empresa-texto{
+    color: #ffffff;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img-empresa{   
+    width: 300px;
+    height: auto;
+
+}
+.empresa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:80px;
+
+}
+.card-empresa2{
+    display: flex;
+    flex-direction: column;
+    background-color: #303944;
+    justify-content: left;
+    align-items: left;
+    max-width: 60%;
+    padding: 0px 0px 0px 30px;
+
+    
 
 }
