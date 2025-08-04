@@ -9,6 +9,7 @@ nav{
     display: flex;
     gap: 20px;
     color: #f5f5f5;
+    list-style: none;
 }
 .logo{
     width: 200px;
@@ -23,4 +24,23 @@ nav{
 .redes{
     width: 40px;
 
+}
+
+.li-nav{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.li-nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.3s ease;
+}
+
+.li-nav a:hover {
+    color: #fcc300;
 }

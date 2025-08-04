@@ -41,3 +41,12 @@ footer{
     padding-top: 50px;
     color: white;
 }
+.links-footer{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.links-footer:hover{
+    color:#f77d2b;
+}

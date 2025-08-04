@@ -38,3 +38,9 @@ padding-bottom: 50px;
     justify-content: center;
     justify-self: center;
 }
+.teste:hover{
+    display: block;
+    filter:opacity(20%);
+    
+
+}
