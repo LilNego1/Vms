@@ -19,7 +19,8 @@ footer{
     color: white;
 }
 .rodape-container{
-    width: 60%;
+    width: 100%;
+    max-width: 1200px;
     padding-top: 50px;
     display: flex;
     justify-content: space-around;
