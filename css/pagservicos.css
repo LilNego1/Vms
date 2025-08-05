@@ -2,22 +2,25 @@
     display: flex;
     justify-content: space-between ;
     flex-direction: row;
-    margin: 10px;
+    margin: 0;
+    padding: 0;
+    background-color: #e5e5e5;
+    max-width: 1200px;
+    justify-self: center;
     
 }
 .texto-eletrica{
     display: flex;
     justify-content: center;
     flex-direction: column;
-
-
+    background-color: #e5e5e5;
 }
 .eletrica-titulo{
     color:#fcc300;
     display: flex;
     align-items: flex-start;   
     padding: 20px 0px;
-
+    justify-self: center;
 }
 .img-eletrica{
     height: 500px;
@@ -35,6 +38,6 @@
     justify-content:center;
 }
 .eletrica-body{
-    background-color: #b4b4b4;
+    background-color: #e5e5e5;
     
 }
