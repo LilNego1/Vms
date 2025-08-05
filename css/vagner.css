@@ -18,13 +18,13 @@
 }
 .img-sobre {
     width: 100%;
-    box-shadow: 5px 5px 10px rgba(252, 143, 71, 0.459);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
-.titulo-sobre{
+.titulo-sobre1{
     color: #fcc300;
     font-size: 2rem;
     font-weight: bold;
-    margin: 20px;
+    margin: 10px;
     padding: 10px;
     display: flex;
     flex-direction: row;
@@ -33,10 +33,11 @@
     color: #000000;
     font-size: 1.2rem;
     line-height: 1.5;
-    margin: 10px 0;
+    margin: 0px 10px;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    padding: 30px;
 }
 .img-sobre{   
     width: 300px;
