@@ -47,6 +47,7 @@ footer{
     list-style: none;
     text-decoration: none;
     color: white;
+    height: 40px;
 }
 
 .links-footer:hover{
