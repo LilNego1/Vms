@@ -34,7 +34,14 @@ nav{
     color: white;
     list-style: none;
 }
-
+.dropdown-menu {
+    background-color: #303944;
+    border: none;
+}
+.dropdown-item:hover {
+    background-color: #4c525c;
+    color: black;
+}
 .li-nav a {
     color: white;
     text-decoration: none;
