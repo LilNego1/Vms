@@ -42,11 +42,11 @@
             </ul>
         </nav>
     </header>
-    <section class="form">
+    <section class="section-form">
         <!--Parte Contate-me-->
 
         <div class="contate-container">
-            <h1 class="titulo-form">Contate-me</h1>
+            <h1 class="titulo">Contate-me</h1>
             <p class="texto-form">Entre em contato para agendar um orçamento</p>
         </div>
 
@@ -54,15 +54,37 @@
 
         <form class="form-container">
             <h2 class="titulo-form">Formulário de Contato</h2>
-            <label for="name">Nome:</label>
-            <input type="text" id="name" name="name">
-            <br>
-            <label for="email">E-mail:</label>
-            <input type="text" id="email" name="email">
-            <br>
-            <label for="descricao">Descrição:</label>
-            <textarea id="descricao" name="descricao" rows="4" cols="50" placeholder="Digite aqui:"></textarea><b></b>
-            <br>
+            <div  class="div-container">
+                <div class="div-info">
+                    <label for="name">Nome:</label>
+                    <input type="text" id="name" name="name" placeholder="Digite seu nome">
+                    <br>
+                    <label for="email">E-mail:</label>
+                    <input type="text" id="email" name="email" placeholder="Digite seu e-mail">
+                    <br>
+                    <p class="texto-form">Serviços Desejados:</p>
+                    <label class="container">Elétrica
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                    </label>
+
+                    <label class="container">Alvenaria
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                    </label>
+
+                    <label class="container">Hidráulica
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                    </label>
+                </div>
+                <div class="div-descricao">
+                    <label for="descricao">Descrição:</label>
+                    <textarea id="descricao" name="descricao" rows="4" cols="50"
+                        placeholder="Digite aqui:"></textarea><b></b>
+                    <br>
+                </div>
+            </div>
             <button class="botao-orcamento">Enviar</button>
             <br>
         </form>

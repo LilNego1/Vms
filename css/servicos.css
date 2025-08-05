@@ -13,6 +13,7 @@
 .servicos-container{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     gap: 40px;
     width: 100%;
@@ -49,13 +50,14 @@
     margin-top: 20px;
 }
 
-.container {
+.container2{
   padding: 0;
   width: 100% ;
   display: flex;
   justify-content: space-between;
   gap: 20px;
   flex-wrap: wrap;
+  margin: 0;
 }
 .card {
   position: relative;

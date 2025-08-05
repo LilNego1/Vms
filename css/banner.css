@@ -4,8 +4,10 @@
     justify-items: center;
     display: flex;
     justify-self: center;
-    background: url(../img/logotipos/banner.jpg) no-repeat center center;
+    background: url(/img/imagens_gerais/21fca3366f00cca0276aa79f29a52856-01.png) no-repeat center center;
+    backdrop-filter: opacity(10px);
     background-size: cover;
+
 }
 .bannerimg{
     width: 100%;
