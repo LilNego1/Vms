@@ -26,13 +26,7 @@
 }
 .titulo-sobre{
     font-size: 2em;
-    color: #fcc300;
-    display: flex;
-    justify-content: flex-start;
-    margin: 0;
-    font-size: 2rem;
-    font-weight: bold;
-    padding: 20px 0px;
+    color: #303944;
 }
 .sobre-imagem {
     width: 200px;
