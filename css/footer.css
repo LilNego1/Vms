@@ -10,10 +10,12 @@ footer{
 .logo-footer{
     display: flex;
     justify-content: left;
+    align-items: center;
     gap: 40px;
 }
 .texto-footer{
     width: 200px;
+    margin: 0;
     justify-self: center;
     align-self: center;
     color: white;
@@ -21,25 +23,24 @@ footer{
 .rodape-container{
     width: 100%;
     max-width: 1200px;
-    padding-top: 50px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: row;
+    align-items: center;
 }
 .titulo-rodape{
+    margin-bottom: 20px;
     display: flex;
     font-size: 2em;
     color: #f77d2b;
     align-self: center;
 }
 .rodape-links{
-    margin-top: 40px;
     display: flex;
     align-items:center;
     flex-direction: column;
 }
 .direitos{
-    padding-top: 50px;
     color: white;
 }
 .links-footer{
@@ -50,9 +51,4 @@ footer{
 
 .links-footer:hover{
     color:#f77d2b;
-}
-.rodape{
-    margin-top: 50px;
-
-
 }
