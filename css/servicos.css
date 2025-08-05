@@ -10,11 +10,11 @@
     padding-bottom: 50px;
 }
 .servicos-cards{
-display: flex;
-justify-content: center;
-gap: 30px;
-flex-direction: row;
-padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: row;
+    padding-bottom: 50px;
 }
 .servico-imagem{
     width: 300px;
