@@ -19,6 +19,8 @@ footer{
     justify-self: center;
     align-self: center;
     color: white;
+    font-weight: bolder;
+    
 }
 .rodape-container{
     width: 100%;
